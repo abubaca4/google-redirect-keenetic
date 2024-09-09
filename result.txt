@@ -1,0 +1,97 @@
+ip route 8.8.4.0 255.255.255.0 Wireguard0 auto !google 0
+ip route 8.8.8.0 255.255.255.0 Wireguard0 auto !google 1
+ip route 8.34.208.0 255.255.240.0 Wireguard0 auto !google 2
+ip route 8.35.192.0 255.255.240.0 Wireguard0 auto !google 3
+ip route 23.236.48.0 255.255.240.0 Wireguard0 auto !google 4
+ip route 23.251.128.0 255.255.224.0 Wireguard0 auto !google 5
+ip route 34.0.0.0 255.254.0.0 Wireguard0 auto !google 6
+ip route 34.2.0.0 255.255.0.0 Wireguard0 auto !google 7
+ip route 34.3.0.0 255.255.254.0 Wireguard0 auto !google 8
+ip route 34.3.3.0 255.255.255.0 Wireguard0 auto !google 9
+ip route 34.3.4.0 255.255.255.0 Wireguard0 auto !google 10
+ip route 34.3.8.0 255.255.248.0 Wireguard0 auto !google 11
+ip route 34.3.16.0 255.255.240.0 Wireguard0 auto !google 12
+ip route 34.3.32.0 255.255.224.0 Wireguard0 auto !google 13
+ip route 34.3.64.0 255.255.192.0 Wireguard0 auto !google 14
+ip route 34.4.0.0 255.252.0.0 Wireguard0 auto !google 15
+ip route 34.8.0.0 255.248.0.0 Wireguard0 auto !google 16
+ip route 34.16.0.0 255.240.0.0 Wireguard0 auto !google 17
+ip route 34.32.0.0 255.224.0.0 Wireguard0 auto !google 18
+ip route 34.64.0.0 255.192.0.0 Wireguard0 auto !google 19
+ip route 34.128.0.0 255.192.0.0 Wireguard0 auto !google 20
+ip route 35.184.0.0 255.248.0.0 Wireguard0 auto !google 21
+ip route 35.192.0.0 255.252.0.0 Wireguard0 auto !google 22
+ip route 35.196.0.0 255.254.0.0 Wireguard0 auto !google 23
+ip route 35.198.0.0 255.255.0.0 Wireguard0 auto !google 24
+ip route 35.199.0.0 255.255.128.0 Wireguard0 auto !google 25
+ip route 35.199.128.0 255.255.192.0 Wireguard0 auto !google 26
+ip route 35.200.0.0 255.248.0.0 Wireguard0 auto !google 27
+ip route 35.208.0.0 255.240.0.0 Wireguard0 auto !google 28
+ip route 35.224.0.0 255.240.0.0 Wireguard0 auto !google 29
+ip route 35.240.0.0 255.248.0.0 Wireguard0 auto !google 30
+ip route 57.140.192.0 255.255.192.0 Wireguard0 auto !google 31
+ip route 64.15.112.0 255.255.240.0 Wireguard0 auto !google 32
+ip route 64.233.160.0 255.255.224.0 Wireguard0 auto !google 33
+ip route 66.22.228.0 255.255.254.0 Wireguard0 auto !google 34
+ip route 66.102.0.0 255.255.240.0 Wireguard0 auto !google 35
+ip route 66.249.64.0 255.255.224.0 Wireguard0 auto !google 36
+ip route 70.32.128.0 255.255.224.0 Wireguard0 auto !google 37
+ip route 72.14.192.0 255.255.192.0 Wireguard0 auto !google 38
+ip route 74.125.0.0 255.255.0.0 Wireguard0 auto !google 39
+ip route 104.154.0.0 255.254.0.0 Wireguard0 auto !google 40
+ip route 104.196.0.0 255.252.0.0 Wireguard0 auto !google 41
+ip route 104.237.160.0 255.255.224.0 Wireguard0 auto !google 42
+ip route 107.167.160.0 255.255.224.0 Wireguard0 auto !google 43
+ip route 107.178.192.0 255.255.192.0 Wireguard0 auto !google 44
+ip route 108.59.80.0 255.255.240.0 Wireguard0 auto !google 45
+ip route 108.170.192.0 255.255.192.0 Wireguard0 auto !google 46
+ip route 108.177.0.0 255.255.128.0 Wireguard0 auto !google 47
+ip route 130.211.0.0 255.255.0.0 Wireguard0 auto !google 48
+ip route 136.22.160.0 255.255.240.0 Wireguard0 auto !google 49
+ip route 136.22.176.0 255.255.248.0 Wireguard0 auto !google 50
+ip route 136.22.184.0 255.255.254.0 Wireguard0 auto !google 51
+ip route 136.22.186.0 255.255.255.0 Wireguard0 auto !google 52
+ip route 142.250.0.0 255.254.0.0 Wireguard0 auto !google 53
+ip route 146.148.0.0 255.255.128.0 Wireguard0 auto !google 54
+ip route 152.65.208.0 255.255.252.0 Wireguard0 auto !google 55
+ip route 152.65.214.0 255.255.254.0 Wireguard0 auto !google 56
+ip route 152.65.218.0 255.255.254.0 Wireguard0 auto !google 57
+ip route 152.65.222.0 255.255.254.0 Wireguard0 auto !google 58
+ip route 152.65.224.0 255.255.224.0 Wireguard0 auto !google 59
+ip route 162.120.128.0 255.255.128.0 Wireguard0 auto !google 60
+ip route 162.216.148.0 255.255.252.0 Wireguard0 auto !google 61
+ip route 162.222.176.0 255.255.248.0 Wireguard0 auto !google 62
+ip route 172.110.32.0 255.255.248.0 Wireguard0 auto !google 63
+ip route 172.217.0.0 255.255.0.0 Wireguard0 auto !google 64
+ip route 172.253.0.0 255.255.0.0 Wireguard0 auto !google 65
+ip route 173.194.0.0 255.255.0.0 Wireguard0 auto !google 66
+ip route 173.255.112.0 255.255.240.0 Wireguard0 auto !google 67
+ip route 192.158.28.0 255.255.252.0 Wireguard0 auto !google 68
+ip route 192.178.0.0 255.254.0.0 Wireguard0 auto !google 69
+ip route 193.186.4.0 255.255.255.0 Wireguard0 auto !google 70
+ip route 199.36.154.0 255.255.254.0 Wireguard0 auto !google 71
+ip route 199.36.156.0 255.255.255.0 Wireguard0 auto !google 72
+ip route 199.192.112.0 255.255.252.0 Wireguard0 auto !google 73
+ip route 199.223.232.0 255.255.248.0 Wireguard0 auto !google 74
+ip route 207.223.160.0 255.255.240.0 Wireguard0 auto !google 75
+ip route 208.65.152.0 255.255.252.0 Wireguard0 auto !google 76
+ip route 208.68.108.0 255.255.252.0 Wireguard0 auto !google 77
+ip route 208.81.188.0 255.255.252.0 Wireguard0 auto !google 78
+ip route 208.117.224.0 255.255.224.0 Wireguard0 auto !google 79
+ip route 209.85.128.0 255.255.128.0 Wireguard0 auto !google 80
+ip route 216.58.192.0 255.255.224.0 Wireguard0 auto !google 81
+ip route 216.73.80.0 255.255.240.0 Wireguard0 auto !google 82
+ip route 216.239.32.0 255.255.224.0 Wireguard0 auto !google 83
+ipv6 route 2001:4860::/32 Wireguard0 auto !google6 0
+ipv6 route 2404:6800::/32 Wireguard0 auto !google6 1
+ipv6 route 2404:f340::/32 Wireguard0 auto !google6 2
+ipv6 route 2600:1900::/28 Wireguard0 auto !google6 3
+ipv6 route 2605:ef80::/32 Wireguard0 auto !google6 4
+ipv6 route 2606:40::/32 Wireguard0 auto !google6 5
+ipv6 route 2606:73c0::/32 Wireguard0 auto !google6 6
+ipv6 route 2607:f8b0::/32 Wireguard0 auto !google6 7
+ipv6 route 2620:11a:a000::/40 Wireguard0 auto !google6 8
+ipv6 route 2620:120:e000::/40 Wireguard0 auto !google6 9
+ipv6 route 2800:3f0::/32 Wireguard0 auto !google6 10
+ipv6 route 2a00:1450::/32 Wireguard0 auto !google6 11
+ipv6 route 2c0f:fb50::/32 Wireguard0 auto !google6 12
